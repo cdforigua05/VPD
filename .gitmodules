@@ -1,3 +1,3 @@
 [submodule "stable-diffusion"]
 	path = stable-diffusion
-	url = git@github.com:CompVis/stable-diffusion.git
+	url = git@github.com:cdforigua05/stable-diffusion.git
